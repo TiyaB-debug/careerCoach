@@ -1,0 +1,6 @@
+.venv/
+db_31_0_csv/
+bls/
+__pycache__/
+.env
+.DS_Store
